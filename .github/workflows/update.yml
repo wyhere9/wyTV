@@ -1,0 +1,40 @@
+name: Maintain IPTV M3U
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Maintain IPTV M3U
+        run: python -m iptv_maintainer maintain
+
+      - name: Commit output
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add output/
+          git commit -m "auto maintain iptv m3u" || echo "no changes"
+          git push
