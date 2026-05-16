@@ -1,0 +1,234 @@
+{
+  "channels": [
+    {
+      "id": "rthk-tv-31",
+      "name": "RTHK TV 31",
+      "group": "香港",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.rthk.hk/tv/live/31", "region": "HK"},
+        {"type": "webpage", "url": "https://www.rthk.hk/tv/live/en", "region": "HK"}
+      ]
+    },
+    {
+      "id": "rthk-tv-32",
+      "name": "RTHK TV 32",
+      "group": "香港",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.rthk.hk/tv/live/32", "region": "HK"},
+        {"type": "webpage", "url": "https://www.rthk.hk/tv/live/en", "region": "HK"}
+      ]
+    },
+    {
+      "id": "rthk-tv-33",
+      "name": "RTHK TV 33",
+      "group": "香港",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.rthk.hk/tv/live/33", "region": "HK"},
+        {"type": "webpage", "url": "https://www.rthk.hk/tv/live/en", "region": "HK"}
+      ]
+    },
+    {
+      "id": "taiwanplus",
+      "name": "TaiwanPlus",
+      "group": "台湾",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.taiwanplus.com/live-stream", "region": "OTHER"},
+        {"type": "youtube_search", "query": "TaiwanPlus live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "pts-taiwan",
+      "name": "公视 PTS",
+      "group": "台湾",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.pts.org.tw/", "region": "OTHER"},
+        {"type": "youtube_search", "query": "公视 PTS 直播 官方", "region": "OTHER"}
+      ]
+    },
+    {
+      "id": "dw-news",
+      "name": "DW News",
+      "group": "英语新闻",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.dw.com/en/live-tv/s-100825", "region": "OTHER"},
+        {"type": "youtube_search", "query": "DW News live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "france24-en",
+      "name": "France 24 English",
+      "group": "英语新闻",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.france24.com/en/live", "region": "OTHER"},
+        {"type": "youtube_search", "query": "France 24 English live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "aljazeera-en",
+      "name": "Al Jazeera English",
+      "group": "英语新闻",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.aljazeera.com/live", "region": "OTHER"},
+        {"type": "youtube_search", "query": "Al Jazeera English live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "sky-news",
+      "name": "Sky News",
+      "group": "英语新闻",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://news.sky.com/watch-live", "region": "OTHER"},
+        {"type": "youtube_search", "query": "Sky News live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "abc-news-live",
+      "name": "ABC News Live",
+      "group": "英语新闻",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://abcnews.go.com/Live", "region": "US"},
+        {"type": "youtube_search", "query": "ABC News Live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "cbs-news",
+      "name": "CBS News",
+      "group": "英语新闻",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.cbsnews.com/live/", "region": "US"},
+        {"type": "youtube_search", "query": "CBS News live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "nasa-tv",
+      "name": "NASA TV",
+      "group": "英语科学",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.nasa.gov/live/", "region": "US"},
+        {"type": "youtube_search", "query": "NASA live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "explore-nature",
+      "name": "Explore.org Nature Cams",
+      "group": "英语自然",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://explore.org/livecams", "region": "US"},
+        {"type": "youtube_search", "query": "Explore.org live nature cams official", "region": "US"}
+      ]
+    },
+    {
+      "id": "wildearth",
+      "name": "WildEarth",
+      "group": "英语自然",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://wildearth.tv/", "region": "OTHER"},
+        {"type": "youtube_search", "query": "WildEarth live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "red-bull-tv",
+      "name": "Red Bull TV",
+      "group": "体育 / 户外",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.redbull.com/int-en/live", "region": "OTHER"},
+        {"type": "youtube_search", "query": "Red Bull TV live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "outside-tv",
+      "name": "Outside TV",
+      "group": "户外",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.outsideonline.com/outside-tv/", "region": "US"},
+        {"type": "youtube_search", "query": "Outside TV live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "travelxp",
+      "name": "Travelxp",
+      "group": "旅游",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.travelxp.com/", "region": "OTHER"},
+        {"type": "youtube_search", "query": "Travelxp live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "gotraveler",
+      "name": "GoTraveler",
+      "group": "旅游",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://gotraveler.com/", "region": "US"},
+        {"type": "youtube_search", "query": "GoTraveler live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "tastemade",
+      "name": "Tastemade",
+      "group": "美食",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.tastemade.com/", "region": "US"},
+        {"type": "youtube_search", "query": "Tastemade live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "bon-appetit",
+      "name": "Bon Appétit",
+      "group": "美食",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.bonappetit.com/", "region": "US"},
+        {"type": "youtube_search", "query": "Bon Appetit live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "major-league-fishing",
+      "name": "Major League Fishing",
+      "group": "钓鱼",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://majorleaguefishing.com/", "region": "US"},
+        {"type": "youtube_search", "query": "Major League Fishing live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "bassmaster",
+      "name": "Bassmaster",
+      "group": "钓鱼",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.bassmaster.com/", "region": "US"},
+        {"type": "youtube_search", "query": "Bassmaster live official", "region": "US"}
+      ]
+    },
+    {
+      "id": "fishing-tv",
+      "name": "Fishing TV",
+      "group": "钓鱼",
+      "enabled": true,
+      "entries": [
+        {"type": "webpage", "url": "https://www.fishingtv.com/", "region": "OTHER"},
+        {"type": "youtube_search", "query": "Fishing TV live official", "region": "US"}
+      ]
+    }
+  ]
+}

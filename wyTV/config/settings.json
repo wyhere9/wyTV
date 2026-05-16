@@ -1,0 +1,11 @@
+{
+  "region_priority": ["CN", "HK", "US", "OTHER"],
+  "http_timeout_seconds": 12,
+  "ffprobe_timeout_seconds": 15,
+  "max_sources_per_channel": 6,
+  "max_sources_per_region": 2,
+  "user_agent": "Mozilla/5.0 IPTV-Maintainer/1.0",
+  "output_m3u": "output/live.m3u",
+  "output_results": "output/results.json",
+  "output_report": "output/report.md"
+}
