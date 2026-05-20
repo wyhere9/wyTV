@@ -1,6 +1,6 @@
 # IPTV Maintainer Report
 
-- Candidates discovered: 263
+- Candidates discovered: 264
 - Playable candidates: 6
 - Channels exported: 3
 
