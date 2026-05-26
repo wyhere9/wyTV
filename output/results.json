@@ -3954,8 +3954,8 @@
     "origin": "https://gotraveler.com/",
     "playable": true,
     "score": 50.0,
-    "width": 426,
-    "height": 240,
+    "width": 0,
+    "height": 0,
     "bitrate": null,
     "error": ""
   }
