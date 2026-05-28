@@ -852,7 +852,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5f9830518522d3c41e0a3413/manifest_v2.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/5f9830518522d3c41e0a3413/manifest_v2.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -1587,7 +1587,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "[tls @ 0x555b8f3cf540] A TLS fatal alert has been received.\nhttps://travelxp.akamaized.net/61adb16dee76f030fce2278e/manifest_v3_hd_31032026_0923.m3u8\\: Input/output error"
+    "error": "https://travelxp.akamaized.net/61adb16dee76f030fce2278e/manifest_v3_hd_31032026_0923.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
