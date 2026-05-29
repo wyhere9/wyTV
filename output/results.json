@@ -54,8 +54,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 400,
-    "height": 224,
+    "width": 480,
+    "height": 270,
     "bitrate": null,
     "error": ""
   },
@@ -69,8 +69,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 400,
-    "height": 224,
+    "width": 480,
+    "height": 270,
     "bitrate": null,
     "error": ""
   },
@@ -522,7 +522,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5f9832a78522d3c41e0a341a/manifest_v3_12102021_1413.m3u8\\: Server returned 404 Not Found"
+    "error": "[tls @ 0x561e7d678540] A TLS fatal alert has been received.\nhttps://travelxp.akamaized.net/5f9832a78522d3c41e0a341a/manifest_v3_12102021_1413.m3u8\\: Input/output error"
   },
   {
     "channel_id": "travelxp",
