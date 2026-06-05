@@ -1692,7 +1692,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "[tls @ 0x559f9d7af540] A TLS fatal alert has been received.\nhttps://travelxp.akamaized.net/60153aeb202a243dfbedafbb/manifest_v3_hd_01042026_0716.m3u8\\: Input/output error"
+    "error": "https://travelxp.akamaized.net/60153aeb202a243dfbedafbb/manifest_v3_hd_01042026_0716.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
