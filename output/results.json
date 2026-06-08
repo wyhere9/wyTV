@@ -3192,7 +3192,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/626295a1b7013c95fdcc89b9/manifest_v1_hd_06022025_1050.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/626295a1b7013c95fdcc89b9/manifest_v1_hd_06022025_1050.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
