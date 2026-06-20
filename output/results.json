@@ -3792,7 +3792,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5f982bd38522d3c41e0a340b/manifest_v1.m3u8\\: Server returned 404 Not Found"
+    "error": "[tls @ 0x557af5a79540] Error in the pull function.\n[tls @ 0x557af5a79540] IO error: Connection reset by peer\nhttps://travelxp.akamaized.net/5f982bd38522d3c41e0a340b/manifest_v1.m3u8\\: Connection reset by peer"
   },
   {
     "channel_id": "travelxp",
