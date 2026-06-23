@@ -7,12 +7,12 @@
     "region": "OTHER",
     "source_type": "webpage",
     "origin": "https://news.sky.com/watch-live",
-    "playable": false,
-    "score": 0.0,
-    "width": null,
-    "height": null,
+    "playable": true,
+    "score": 50.0,
+    "width": 512,
+    "height": 288,
     "bitrate": null,
-    "error": "Command '['ffprobe', '-v', 'error', '-rw_timeout', '15000000', '-show_entries', 'stream=codec_type,width,height,bit_rate', '-of', 'json', 'https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https"
+    "error": ""
   },
   {
     "channel_id": "sky-news",
@@ -22,12 +22,12 @@
     "region": "OTHER",
     "source_type": "webpage",
     "origin": "https://news.sky.com/watch-live",
-    "playable": false,
-    "score": 0.0,
-    "width": null,
-    "height": null,
+    "playable": true,
+    "score": 50.0,
+    "width": 512,
+    "height": 288,
     "bitrate": null,
-    "error": "Command '['ffprobe', '-v', 'error', '-rw_timeout', '15000000', '-show_entries', 'stream=codec_type,width,height,bit_rate', '-of', 'json', 'https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8']' timed out after 20 seconds"
+    "error": ""
   },
   {
     "channel_id": "cbs-news",
@@ -54,8 +54,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 400,
-    "height": 224,
+    "width": 480,
+    "height": 270,
     "bitrate": null,
     "error": ""
   },
