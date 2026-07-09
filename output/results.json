@@ -54,8 +54,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 400,
-    "height": 224,
+    "width": 480,
+    "height": 270,
     "bitrate": null,
     "error": ""
   },
@@ -69,8 +69,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 400,
-    "height": 224,
+    "width": 480,
+    "height": 270,
     "bitrate": null,
     "error": ""
   },
@@ -777,7 +777,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "[tls @ 0x55943512a540] A TLS fatal alert has been received.\nhttps://travelxp.akamaized.net/63beb9a29d42f93a9b550491/manifest_v2_20082025_1117.m3u8\\: Input/output error"
+    "error": "https://travelxp.akamaized.net/63beb9a29d42f93a9b550491/manifest_v2_20082025_1117.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -1647,7 +1647,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "[tls @ 0x561bba0d5540] Error in the pull function.\n[tls @ 0x561bba0d5540] IO error: Connection reset by peer\nhttps://travelxp.akamaized.net/5f982c748522d3c41e0a340c/manifest_v2.m3u8\\: Connection reset by peer"
+    "error": "https://travelxp.akamaized.net/5f982c748522d3c41e0a340c/manifest_v2.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -2277,7 +2277,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "[tls @ 0x55586065f540] Error in the pull function.\n[tls @ 0x55586065f540] IO error: Connection timed out\nhttps://travelxp.akamaized.net/5ffd94c2d051dccc770fe20e/manifest_v1_hd_07022025_1835.m3u8\\: Connection timed out"
+    "error": "https://travelxp.akamaized.net/5ffd94c2d051dccc770fe20e/manifest_v1_hd_07022025_1835.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
