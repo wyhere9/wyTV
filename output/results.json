@@ -54,8 +54,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 400,
-    "height": 224,
+    "width": 480,
+    "height": 270,
     "bitrate": null,
     "error": ""
   },
@@ -69,8 +69,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 480,
-    "height": 270,
+    "width": 400,
+    "height": 224,
     "bitrate": null,
     "error": ""
   },
