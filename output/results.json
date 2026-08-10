@@ -54,8 +54,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 400,
-    "height": 224,
+    "width": 480,
+    "height": 270,
     "bitrate": null,
     "error": ""
   },
@@ -102,7 +102,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/6a210db46bdba7bada8852f2/manifest_v1_hd_25062026_1512.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/6a210db46bdba7bada8852f2/manifest_v1_hd_25062026_1512.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
