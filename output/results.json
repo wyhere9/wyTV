@@ -78,7 +78,7 @@
     "channel_id": "travelxp",
     "channel_name": "Travelxp",
     "group": "旅游",
-    "url": "https://travelxp.akamaized.net/6a43c0420ce7e576ea31e838/manifest_v1_21072026_0711.m3u8\\",
+    "url": "https://travelxp.akamaized.net/6a718fa50aae013632a0b829/manifest_v1_hd.m3u8\\",
     "region": "OTHER",
     "source_type": "webpage",
     "origin": "https://www.travelxp.com/",
@@ -87,7 +87,22 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/6a43c0420ce7e576ea31e838/manifest_v1_21072026_0711.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/6a718fa50aae013632a0b829/manifest_v1_hd.m3u8\\: Server returned 404 Not Found"
+  },
+  {
+    "channel_id": "travelxp",
+    "channel_name": "Travelxp",
+    "group": "旅游",
+    "url": "https://travelxp.akamaized.net/5f97c03ac5095d7e3af8c587/manifest_v2.m3u8\\",
+    "region": "OTHER",
+    "source_type": "webpage",
+    "origin": "https://www.travelxp.com/",
+    "playable": false,
+    "score": 0.0,
+    "width": null,
+    "height": null,
+    "bitrate": null,
+    "error": "https://travelxp.akamaized.net/5f97c03ac5095d7e3af8c587/manifest_v2.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -1503,7 +1518,7 @@
     "channel_id": "travelxp",
     "channel_name": "Travelxp",
     "group": "旅游",
-    "url": "https://travelxp.akamaized.net/64f59cd0cb0320d999c1a194/manifest_v2.m3u8\\",
+    "url": "https://travelxp.akamaized.net/6a43c0420ce7e576ea31e838/manifest_v1_21072026_0711.m3u8\\",
     "region": "OTHER",
     "source_type": "webpage",
     "origin": "https://www.travelxp.com/",
@@ -1512,7 +1527,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/64f59cd0cb0320d999c1a194/manifest_v2.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/6a43c0420ce7e576ea31e838/manifest_v1_21072026_0711.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -2523,21 +2538,6 @@
     "channel_id": "travelxp",
     "channel_name": "Travelxp",
     "group": "旅游",
-    "url": "https://travelxp.akamaized.net/6757d44c2b3f6946db2f6034/manifest_v1_12122024_1125.m3u8\\",
-    "region": "OTHER",
-    "source_type": "webpage",
-    "origin": "https://www.travelxp.com/",
-    "playable": false,
-    "score": 0.0,
-    "width": null,
-    "height": null,
-    "bitrate": null,
-    "error": "https://travelxp.akamaized.net/6757d44c2b3f6946db2f6034/manifest_v1_12122024_1125.m3u8\\: Server returned 404 Not Found"
-  },
-  {
-    "channel_id": "travelxp",
-    "channel_name": "Travelxp",
-    "group": "旅游",
     "url": "https://travelxp.akamaized.net/60b0999a7561494b3d5f15b1/manifest_v4_hd_06022025_2041.m3u8\\",
     "region": "OTHER",
     "source_type": "webpage",
@@ -2653,6 +2653,21 @@
     "height": null,
     "bitrate": null,
     "error": "https://travelxp.akamaized.net/676026372b3f6946db2f607d/manifest_v2_hd_12032025_1111.m3u8\\: Server returned 404 Not Found"
+  },
+  {
+    "channel_id": "travelxp",
+    "channel_name": "Travelxp",
+    "group": "旅游",
+    "url": "https://travelxp.akamaized.net/6757d44c2b3f6946db2f6034/manifest_v1_12122024_1125.m3u8\\",
+    "region": "OTHER",
+    "source_type": "webpage",
+    "origin": "https://www.travelxp.com/",
+    "playable": false,
+    "score": 0.0,
+    "width": null,
+    "height": null,
+    "bitrate": null,
+    "error": "https://travelxp.akamaized.net/6757d44c2b3f6946db2f6034/manifest_v1_12122024_1125.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -2803,6 +2818,21 @@
     "height": null,
     "bitrate": null,
     "error": "https://travelxp.akamaized.net/652f9d358371354e9f43ccd3/manifest_v2_hd_22042024_2148.m3u8\\: Server returned 404 Not Found"
+  },
+  {
+    "channel_id": "travelxp",
+    "channel_name": "Travelxp",
+    "group": "旅游",
+    "url": "https://travelxp.akamaized.net/64f59cd0cb0320d999c1a194/manifest_v2.m3u8\\",
+    "region": "OTHER",
+    "source_type": "webpage",
+    "origin": "https://www.travelxp.com/",
+    "playable": false,
+    "score": 0.0,
+    "width": null,
+    "height": null,
+    "bitrate": null,
+    "error": "https://travelxp.akamaized.net/64f59cd0cb0320d999c1a194/manifest_v2.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
