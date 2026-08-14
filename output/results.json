@@ -54,8 +54,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 480,
-    "height": 270,
+    "width": 400,
+    "height": 224,
     "bitrate": null,
     "error": ""
   },
@@ -69,8 +69,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 480,
-    "height": 270,
+    "width": 400,
+    "height": 224,
     "bitrate": null,
     "error": ""
   },
@@ -78,7 +78,7 @@
     "channel_id": "travelxp",
     "channel_name": "Travelxp",
     "group": "旅游",
-    "url": "https://travelxp.akamaized.net/6a718fa50aae013632a0b829/manifest_v1_hd.m3u8\\",
+    "url": "https://travelxp.akamaized.net/6a718fa50aae013632a0b829/manifest_v1_hd_14082026_0619.m3u8\\",
     "region": "OTHER",
     "source_type": "webpage",
     "origin": "https://www.travelxp.com/",
@@ -87,7 +87,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/6a718fa50aae013632a0b829/manifest_v1_hd.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/6a718fa50aae013632a0b829/manifest_v1_hd_14082026_0619.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -3144,8 +3144,8 @@
     "origin": "https://gotraveler.com/",
     "playable": true,
     "score": 50.0,
-    "width": 426,
-    "height": 240,
+    "width": 0,
+    "height": 0,
     "bitrate": null,
     "error": ""
   }
