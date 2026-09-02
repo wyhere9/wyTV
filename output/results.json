@@ -612,7 +612,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5f97b1e7c5095d7e3af8c586/manifest_v1.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/5f97b1e7c5095d7e3af8c586/manifest_v1.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -1917,7 +1917,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5eda76f946c9074616122fc0/manifest_v2_hd.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/5eda76f946c9074616122fc0/manifest_v2_hd.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -3178,20 +3178,5 @@
     "height": null,
     "bitrate": null,
     "error": "https://travelxp.akamaized.net/652f9d47f31434303b35b7e2/manifest_v3_hd_23042024_0001.m3u8\\: Server returned 404 Not Found"
-  },
-  {
-    "channel_id": "gotraveler",
-    "channel_name": "GoTraveler",
-    "group": "旅游",
-    "url": "https://amg09501-amg09501c1-ottera-us-2535.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-otteraus/playlist.m3u8",
-    "region": "US",
-    "source_type": "webpage",
-    "origin": "https://gotraveler.com/",
-    "playable": true,
-    "score": 50.0,
-    "width": 426,
-    "height": 240,
-    "bitrate": null,
-    "error": ""
   }
 ]
