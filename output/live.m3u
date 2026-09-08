@@ -7,3 +7,5 @@ https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/mas
 https://news20e7hhcb.airspace-cdn.cbsivideo.com/index.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-id="cbs-news" tvg-name="CBS News",CBS News [US]
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="旅游" tvg-id="gotraveler" tvg-name="GoTraveler",GoTraveler [US]
+https://amg09501-amg09501c1-ottera-us-2535.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-otteraus/playlist.m3u8
