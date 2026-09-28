@@ -732,7 +732,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/6068212edc21b5fe8cffe601/manifest_v3_hd_26022026_1257.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/6068212edc21b5fe8cffe601/manifest_v3_hd_26022026_1257.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
@@ -1407,7 +1407,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/63f843006055ab3d4828a0c5/manifest_v1_hd_09062023_0732.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/63f843006055ab3d4828a0c5/manifest_v1_hd_09062023_0732.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
@@ -1902,7 +1902,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/601788fb202a243dfbedafc4/manifest_v3_hd_21042026_1214.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/601788fb202a243dfbedafc4/manifest_v3_hd_21042026_1214.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
