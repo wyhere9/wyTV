@@ -54,8 +54,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 480,
-    "height": 270,
+    "width": 400,
+    "height": 224,
     "bitrate": null,
     "error": ""
   },
@@ -69,8 +69,8 @@
     "origin": "https://www.cbsnews.com/live/",
     "playable": true,
     "score": 50.0,
-    "width": 480,
-    "height": 270,
+    "width": 400,
+    "height": 224,
     "bitrate": null,
     "error": ""
   },
@@ -327,7 +327,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/61b726c84763852c86b59886/manifest_v2_hd_16112023_1819.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/61b726c84763852c86b59886/manifest_v2_hd_16112023_1819.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
@@ -777,7 +777,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5eda76f946c9074616122fc0/manifest_v2_hd.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/5eda76f946c9074616122fc0/manifest_v2_hd.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -1722,7 +1722,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5f884e79c5095d7e3af8c573/manifest_v2_hd_04022025_1529.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/5f884e79c5095d7e3af8c573/manifest_v2_hd_04022025_1529.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -3042,7 +3042,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/65d4c0959c707ef378e0a915/manifest_v1_hd_04032024_1818.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/65d4c0959c707ef378e0a915/manifest_v1_hd_04032024_1818.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
