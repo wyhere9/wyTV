@@ -1287,7 +1287,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/6015395e202a243dfbedafba/manifest_v2_hd_23042024_1756.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/6015395e202a243dfbedafba/manifest_v2_hd_23042024_1756.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
@@ -1572,7 +1572,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/651d2f478371354e9f43c9de/manifest_v2_hd_22042024_2048.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/651d2f478371354e9f43c9de/manifest_v2_hd_22042024_2048.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -1872,7 +1872,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5eed9de746c9074616123010/manifest_v3_hd_01062026_1141.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/5eed9de746c9074616123010/manifest_v3_hd_01062026_1141.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -2337,7 +2337,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5eda767146c9074616122fbe/manifest_v2_hd.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/5eda767146c9074616122fbe/manifest_v2_hd.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -2547,7 +2547,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5f1687ab8281ec7f46d0f359/manifest_v3.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/5f1687ab8281ec7f46d0f359/manifest_v3.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -3144,8 +3144,8 @@
     "origin": "https://gotraveler.com/",
     "playable": true,
     "score": 50.0,
-    "width": 426,
-    "height": 240,
+    "width": 0,
+    "height": 0,
     "bitrate": null,
     "error": ""
   }
