@@ -237,7 +237,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/683e748fd4f23f87ef697c0c/manifest_v8_11052026_1332.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/683e748fd4f23f87ef697c0c/manifest_v8_11052026_1332.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
@@ -567,7 +567,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/691432a728e856f67b66ee79/manifest_v2_hd_26112025_1218.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/691432a728e856f67b66ee79/manifest_v2_hd_26112025_1218.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -672,7 +672,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/6215f88f5245756d04977052/manifest_v1_hd_10052024_2220.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/6215f88f5245756d04977052/manifest_v1_hd_10052024_2220.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
@@ -747,7 +747,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5f167a998281ec7f46d0f354/manifest_v1.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/5f167a998281ec7f46d0f354/manifest_v1.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
@@ -1227,7 +1227,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/61b042c4392f4a88ac6bff72/manifest_v1_hd_06022025_1153.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/61b042c4392f4a88ac6bff72/manifest_v1_hd_06022025_1153.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -1512,7 +1512,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5ffe9cb9623b58327a2e5164/manifest_v1_hd_12042024_1207.m3u8\\: Server returned 404 Not Found"
+    "error": "https://travelxp.akamaized.net/5ffe9cb9623b58327a2e5164/manifest_v1_hd_12042024_1207.m3u8\\: Invalid data found when processing input"
   },
   {
     "channel_id": "travelxp",
@@ -2127,7 +2127,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/606acee5dc21b5fe8cffe60a/manifest_v1_hd_06022025_2204.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/606acee5dc21b5fe8cffe60a/manifest_v1_hd_06022025_2204.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -2502,7 +2502,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/60534771ed6b37414a824d92/manifest_v2_hd_07022025_1119.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/60534771ed6b37414a824d92/manifest_v2_hd_07022025_1119.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -2622,7 +2622,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/5ed6077946c9074616122f9f/manifest_v1_hd_24082023_1143.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/5ed6077946c9074616122f9f/manifest_v1_hd_24082023_1143.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
@@ -3042,7 +3042,7 @@
     "width": null,
     "height": null,
     "bitrate": null,
-    "error": "https://travelxp.akamaized.net/60178e0f4a5ce52bf0c2d55d/manifest_v1_hd_07022025_1625.m3u8\\: Invalid data found when processing input"
+    "error": "https://travelxp.akamaized.net/60178e0f4a5ce52bf0c2d55d/manifest_v1_hd_07022025_1625.m3u8\\: Server returned 404 Not Found"
   },
   {
     "channel_id": "travelxp",
